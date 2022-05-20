@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'News',
+			icon: 'bar-chart-3',
+			link: 'https://apnews.com/',
 		},
 		{
 			id: '6',
@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://gogoplay4.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Books',
+					link: 'https://libgen.st/',
 				},
 			],
 		},
@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://www.deltamath.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Planbook',
+					link: 'https://www.planbook.com/planbook.html?t=1105013&k=BarefootBCA&v=D&c=18325979&y=1719665',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Gimkit',
+					link: 'https://www.gimkit.com/join',
 				},
 			],
 		},
